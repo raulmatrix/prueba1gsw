@@ -1,0 +1,11 @@
+div{
+
+    background-color: rgb(78, 85, 85);
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    display: inline-block;
+}
+.estilodiv{
+    background-color: aquamarine;
+}
